@@ -100,7 +100,7 @@ def display_header():
     print(f"{CYAN}║{NC}{GREEN}          │ KILLER TOOLS│              {NC}{CYAN}║{NC}")
     print(f"{CYAN}║{NC}{GREEN}          █▄▄▄▄▄▄▄▄▄▄▄▄▄█              {NC}{CYAN}║{NC}")
     print(f"{CYAN}╠═══════════════════════════════════════╣{NC}")
-    print(f"{CYAN}║{NC} {MAGENTA}📅 {datetime.now().strftime('%A, %d %B %Y')}           {NC}  {CYAN}║{NC}")
+    print(f"{CYAN}║{NC} {MAGENTA}📅 {datetime.now().strftime('%A, %d %B %Y')}            {NC}  {CYAN}║{NC}")
     print(f"{CYAN}║{NC} {MAGENTA}⏰ {datetime.now().strftime('%H:%M:%S')}            {NC}               {CYAN}║{NC}")
     print(f"{CYAN}╚═══════════════════════════════════════╝{NC}")
 
